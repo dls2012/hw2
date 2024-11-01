@@ -1,0 +1,4 @@
+C:/Users/DILSHOD/CLionProjects/hw4/cmake-build-debug/CMakeFiles/hw4.dir
+C:/Users/DILSHOD/CLionProjects/hw4/cmake-build-debug/CMakeFiles/problems.h.dir
+C:/Users/DILSHOD/CLionProjects/hw4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DILSHOD/CLionProjects/hw4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
